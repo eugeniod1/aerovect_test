@@ -265,7 +265,8 @@ span, a, a:hover {
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #FFFFFF !important;
+  /* color: #FFFFFF !important; */
+  text-decoration: underline;
 }
 
 .nav-scroll {
