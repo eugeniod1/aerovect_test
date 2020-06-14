@@ -258,14 +258,14 @@ span, a, a:hover {
 .navbar .navbar-nav .nav-link {
   font-size: 13px;
   font-weight: 600;
-  color: #eee;
+  color: #a8a8a8;
   letter-spacing: .5px;
   margin: 15px 5px;
   -webkit-transition: all .5s;
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #F24259 !important;
+  color: #FFFFFF !important;
 }
 
 .nav-scroll {
