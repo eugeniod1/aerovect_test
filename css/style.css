@@ -321,6 +321,12 @@ span, a, a:hover {
 }
 
 
+.sensor-view {
+  display:inline-block;
+  float:right;
+}
+
+
 /* ----------------------------------------------------------------
      [ 03 Start Header ]
 -----------------------------------------------------------------*/
@@ -525,6 +531,8 @@ span, a, a:hover {
 }
 .hero .mission p {
   margin-bottom: 30px;
+  display:inline-block;
+  float:left;
 }
 .hero .mission i {
   display: inline-block;
