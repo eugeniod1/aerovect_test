@@ -806,6 +806,8 @@ span, a, a:hover {
   width: 220px;
   height: 220px;
   margin: auto;
+  filter: grayscale(100%);
+
 }
 .team .titem .team-img:hover img {
   -webkit-transform: scale(1.2);
