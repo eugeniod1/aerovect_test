@@ -184,6 +184,7 @@ span, a, a:hover {
 
 .cd-words-wrapper b.is-visible {
   position: relative;
+  color:#FFFFFF;
 }
 
 .no-js .cd-words-wrapper b {
@@ -213,7 +214,7 @@ span, a, a:hover {
   right: 0;
   width: 2px;
   height: 70%;
-  background-color: #aebcb9;
+  background-color: #FFFFFF;
 }
 
 .cd-headline.clip b {
