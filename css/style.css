@@ -449,6 +449,7 @@ span, a, a:hover {
 .slider .owl-item, .slider-fade .owl-item {
   height: 100vh;
   position: relative;
+  display:inline-block;
 }
 .slider .item, .slider-fade .item {
   position: absolute;
